@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BMI on android</string>
+    <string name="app_name">Gesundheits-App</string>
     <string name="bmi_title">BMI Calculator</string>
     <string name="your_height_cm">Your Height (cm)</string>
 </resources>
