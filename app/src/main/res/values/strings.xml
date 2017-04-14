@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldAndroidApplication</string>
+    <string name="bmi_title">BMI Calculator</string>
+    <string name="your_height_cm">Your Height (cm)</string>
+</resources>
