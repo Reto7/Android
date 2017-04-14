@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-
+    String getBmiResultat(float weight, float height) {
+        return BmiBusinessComponent.calculateBMI(weight, height);
+    }
 }
