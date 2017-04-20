@@ -5,7 +5,9 @@ public class BmiBusinessComponent {
 
     public static String calculateBMI(float weight, float height) {
         // Koerpergewicht in Kilogramm geteilt durch das Quadrat der Koerpergroesse in Metern.
+        height = height/100;
         float bmi = weight / (height*height);
+
         System.out.println("BMI:"+bmi);
 
         String interpretation = "";
